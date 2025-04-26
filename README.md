@@ -1,6 +1,6 @@
 <img src="https://trafficroad.io/data/image/wyrmdash-tr1.png" alt="Wyrmdash " width="150">
 <h1>Wyrmdash</h1>
-<p><p><strong>Website:</strong><a href="https://trafficroad.io/wyrmdash">https://trafficroad.io/wyrmdash</a></p>
+<p><p><strong>Website:</strong> <a href="https://trafficroad.io/wyrmdash">Wyrmdash</a></p>
 
 <h2>Wyrmdash - A Princess with No Need for Saving</h2>
 <p>Forget fairy tales! In <strong>Wyrmdash</strong>, you control a fierce princess riding her loyal dragon on a destructive mission of revenge. Betrayed by fake heroes, she takes charge, unleashing fire and chaos across the kingdom.</p>
@@ -29,7 +29,7 @@
 </ul>
 
 <h2>Play Wyrmdash Unblocked</h2>
-<p>Jump into action with <strong>Wyrmdash</strong> at <a href="https://trafficroad.io">TrafficRoad.io</a>. No downloads needed — just pure, thrilling gameplay at your fingertips!</p>
+<p>Jump into action with <strong>Wyrmdash</strong> at <a href="https://trafficroad.io">Traffic Road</a>. No downloads needed — just pure, thrilling gameplay at your fingertips!</p>
 
 <h2>Join the Rampage Today</h2>
 <p>Help the princess blaze her path of revenge and rewrite her own story. It's time to smash, soar, and conquer in <strong>Wyrmdash</strong>!</p>
